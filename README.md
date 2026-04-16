@@ -58,9 +58,9 @@ The model achieved good accuracy and reliable prediction performance, making it 
 
 ---
 
-##  Model / Project Link
+##  Project Link
 
-[Add your GitHub / Drive link here]
+ https://kumari-kritika.github.io/Diabetes_Prediction_and_Precaution_Recommendation-/
 
 ---
 
