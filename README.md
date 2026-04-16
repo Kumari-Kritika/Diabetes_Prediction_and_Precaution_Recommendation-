@@ -1,4 +1,3 @@
-# Diabetes Prediction and Precaution Recommendation System  
 ### ML-Based Healthcare Application
 
 This project aims to predict the likelihood of diabetes in individuals using machine learning techniques, specifically classification algorithms. It was developed as part of an academic project to support early detection and promote health awareness.
